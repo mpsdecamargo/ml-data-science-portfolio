@@ -26,14 +26,23 @@ Note: Paper available upon request (in Portuguese) at mpsdecamargo@gmail.com
 The authors of the paper are:
 
 Marcos Paulo Santos de Camargo 
+
 LinkedIn: https://www.linkedin.com/in/mpsdecamargo/
+
 Matheus Caldas Lima 
+
 LinkedIn: https://www.linkedin.com/in/matheus-c-lima/
+
 Pedro Gabriel Rodrigues Sanches 
+
 LinkedIn: https://www.linkedin.com/in/pedro-gabriel-r-sanches-517574185/
+
 Rafael Oliveira Luz 
+
 LinkedIn: https://www.linkedin.com/in/rafaoluz/
+
 Thiago Ribeiro Gomes 
+
 LinkedIn: https://www.linkedin.com/in/thiagoribeirogomes/
 
 # Notebooks
